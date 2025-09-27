@@ -10,7 +10,7 @@ class loadingScene extends Phaser.Scene {
       frameWidth: 66,
       frameHeight: 66,
     })
-    this.load.spritesheet('Octopus', 'assets/blob.png', {
+    this.load.spritesheet('blob', 'assets/blob.png', {
       frameWidth: 24,
       frameHeight: 24,
     })
